@@ -1,8 +1,20 @@
 header{
     background-color: black;
+    color: white;
+    text-align: center;
 }
 
 .info{
-    background-color: aquamarine;
-    color: brown;
+    background-color: #414D4E;
+    color: #8D99AE;
+    border: solid #B73315 10px;
+    margin: auto;
+    text-align: center;
+    width: 75%;
+}
+
+h3{
+    background-color: gray;  
+    color: white;
+    margin-bottom: 0%;
 }
